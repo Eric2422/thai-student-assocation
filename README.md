@@ -8,4 +8,4 @@ Website for the Thai Student Association
 
 ## Contributors
 
-Eric Zhang
+- Eric Zhang
